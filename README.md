@@ -1,5 +1,5 @@
 # Deployment with the `jboss/wildfly` Docker image
-
+#TEST
 This example shows how to deploy a war file using the [`jboss/wildfly` Docker image](https://registry.hub.docker.com/u/jboss/wildfly/).
 
 ## Instructions
